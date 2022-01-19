@@ -1,0 +1,46 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    text-shadow: 1px 0px 1px slategray;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    color:linen ;
+    background:linear-gradient(to left, slategray, black, slategray );
+}
+
+h1{
+    font-family: 'Raleway';
+    font-weight: 200 ;
+    font-size: 2.2em;
+    color: linen;
+    text-shadow: 3px 3px 5px black;
+    margin-top: 6vh;
+    margin-bottom: 5px;
+}
+h2{
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+section{
+    font-size: 0.3;
+    font-family: 'spartan', sans-serif;
+    line-height: 1.2;
+}
+
+footer :nth-child(1) {
+    font-size: smaller;
+    font-weight: 100;
+    margin-bottom: 0px;
+}
+
+footer :nth-child(2) {
+    font-size: x-small;
+    color: goldenrod;
+    margin-top: 0px;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: lighter;
+}
